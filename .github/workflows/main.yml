@@ -15,7 +15,7 @@ env:
   AZURE_ML_WORKSPACE_NAME: "cats-dogs-charly"
   AZURE_WEBAPP_NAME: "cats-dogs-charly"
   DELETE_WEBAPP: "false"
-  DOCKER_IMAGE_NAME: "guillaumechervetlunique/mlopspython-charly"
+  DOCKER_IMAGE_NAME: "robertcarry/mlopspython-charly"
 
 permissions:
   id-token: write
